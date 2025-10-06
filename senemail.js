@@ -1,4 +1,4 @@
-import transporter from "../transporter.js";
+import transporter from "./transporter.js";
 
 export const sendTestEmail = async () => {
   try {
